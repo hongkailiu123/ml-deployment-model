@@ -1,1 +1,3 @@
-# ml-deployment-model
+# ml-deployment-example
+
+Moment predictor demo
